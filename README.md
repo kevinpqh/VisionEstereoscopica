@@ -5,7 +5,15 @@ Trabajo Final de Computacion Grafica
 - Sapacayo Garcia, Felipe
 - Rodriguez Saico, Frank
 # Prueba 1
-Imagen Original
+Imagen Original<br />
 ![alt tag](prueba1/original.jpg "Imagen original")
-Imagen procesado
+Imagen procesado<br />
 ![alt tag](prueba1/generacion.png "Imagen procesado")
+
+# Prueba 2
+Imagen Original<br />
+![alt tag](prueba2/original.png "Imagen original")
+Imagen procesado 1<br />
+![alt tag](prueba1/generacion1.png "Imagen procesado")
+Imagen procesado 2 - ROTADO<br />
+![alt tag](prueba1/generacion2.png "Imagen procesado")
